@@ -125,9 +125,9 @@ npm run build
 
 ## 🎤 Hackathon Pitch Deck
 
-👉 [View Pitch Deck on Canva](https://www.canva.com/)
-👉 [Live Demo](https://your-deployment-link.vercel.app/)
-👉 [GitHub Repo](https://github.com/your-username/FoodLink)
+👉 [View Pitch Deck on Canva](https://www.canva.com/design/DAGxxhG0Ofw/Rrsth524vtscDLq9vaMn0A/view?utm_content=DAGxxhG0Ofw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7b338c9bac)
+👉 [Live Demo](foodlink-hackathon-2-picubz3kj-dongdavis-projects.vercel.app/)
+👉 [GitHub Repo](https://github.com/Dongdavi/Foodlink-hackathon-2.git)
 
 ---
 
